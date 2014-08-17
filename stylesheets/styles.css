@@ -1,10 +1,11 @@
 body
 {
  background: rgb(22, 21, 20);
+ font-size: 16px;
 }
 header.sidebar
 {
-background-color: #FFFFFF;
+background-color: #EEEEEE;
 width: 30%;
 background-size: cover;
 display: inline-block;
